@@ -7,6 +7,7 @@ I plan on structuring the pages so that the information is on the left side, and
 
 2/18/2018 - Vesion 1.1: 
 - Added cost classification for the suit for better classification amongst the other units in the game.
+  The color also indicates the suit's cost family, which players who see it will automatically appreciate.
 - Added padding-bottom to the body tag to space out the ending of the page a little more for a better visual reception.
 - Added margin spacing for the "a" tag in the "bansheeStyle.css" file to scale appropriately
 - Increased the font size for the "a" tag to display much better and clearer.
