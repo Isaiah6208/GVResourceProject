@@ -15,3 +15,4 @@ I plan on structuring the pages so that the information is on the left side, and
 - The link previously mentioned now has a blank attribute to stay on the same page, and to also open a seperate tab to my GitHub profile.
 - All headers in the "bansheeStyle.css" file have been increased in size.
 - Changed "Weapon Information" to "How To Use" in the "banshee.html" file for a much more simpler and cleaner look for the page.
+- Fixed the original error that popped up yesterday on the "bansheeStyle.css" file, the css file is now fine.
