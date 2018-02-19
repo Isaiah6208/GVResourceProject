@@ -10,3 +10,5 @@ I plan on structuring the pages so that the information is on the left side, and
 - Added padding-bottom to the body tag to space out the ending of the page a little more for a better visual reception.
 - Added margin spacing for the "a" tag in the "bansheeStyle.css" file to scale appropriately
 - Increased the font size for the "a" tag to display much better and clearer.
+- Changed the link on the "banshee.html" file to link to my main GitHub page, rather than the GVResource project directory.
+- The link previously mentioned now has a blank attribute to stay on the same page, and to also open a seperate tab to my GitHub profile.
