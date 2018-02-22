@@ -16,3 +16,6 @@ I plan on structuring the pages so that the information is on the left side, and
 - All headers in the "bansheeStyle.css" file have been increased in size.
 - Changed "Weapon Information" to "How To Use" in the "banshee.html" file for a much more simpler and cleaner look for the page.
 - Fixed the original error that popped up yesterday on the "bansheeStyle.css" file, the css file is now fine.
+
+2/22/108 - Version 1.01 
+- Started to construct a fixed menu bar for the child page with three tabs: Home, Mobile Suits, Contact
