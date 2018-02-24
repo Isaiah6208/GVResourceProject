@@ -1,1 +1,6 @@
-2/22/2018 - Initial creation
+2/22/2018 - Version 1.0: Initial creation
+
+
+2/24/2018 - Version 2.0 
+- Completely revamped the main page by utilizing the Bootstrap 4 framework.
+- Search bar has been added, but currently doesn't have the proper back-end support.
